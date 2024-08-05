@@ -37,8 +37,6 @@ body {
     border-radius: 3px;
     margin: 5px;
     font-size: 1.3vw;
+    cursor: pointer;
 }
 
-.button:hover{
-    cursor:pointer;
-}
