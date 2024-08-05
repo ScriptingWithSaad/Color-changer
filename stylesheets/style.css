@@ -38,3 +38,6 @@ body {
     margin: 5px;
     font-size: 1.3vw;
 }
+
+.button:hover{
+    cursor:pointer;
